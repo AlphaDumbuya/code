@@ -6,7 +6,7 @@ This repository contains a web-based chatbot that interacts with users and tells
 
 ## Instructions to Execute the Code
 
-1. **Clone or Download**: Clone this repository https://github.com/AlphaDumbuya/funny-bot_challenge.git to your local machine using the following command or download it as a ZIP file:
+1. **Clone or Download**: Clone this repository https://github.com/AlphaDumbuya/code.git to your local machine using the following command or download it as a ZIP file:
 
 
 2. **Open the HTML File**: Navigate to the project directory and open the `index.html` file in a modern web browser. You can do this by double-clicking the file or right-clicking and selecting "Open with" in the browser of your choice.
